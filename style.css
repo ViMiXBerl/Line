@@ -1,0 +1,11 @@
+#parent {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: rgb(97, 223, 72);
+}
+.child {
+  position: absolute;
+  background-color: violet;
+  height: 300px;
+}
